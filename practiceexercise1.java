@@ -1,4 +1,4 @@
-package hatdog;
+package practiceexercise1;
 
 import java.util.Scanner;
 
